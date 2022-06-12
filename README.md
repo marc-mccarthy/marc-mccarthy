@@ -8,10 +8,9 @@
 
 💻 Full Stack Development &nbsp;&nbsp; 🎓 Learning &nbsp;&nbsp; 🪐 Space Exploration &nbsp;&nbsp; 🌏 Climate Science &nbsp;&nbsp; 📜 Philosophy &nbsp;&nbsp; 🏈 Sports &nbsp;&nbsp; 🐶 Animal Rights &nbsp;&nbsp; 🏃 Running &nbsp;&nbsp; 🥇 Special Olympics &nbsp;&nbsp; 📈 Forex/Stock Trading &nbsp;&nbsp; 💲 Fintech &nbsp;&nbsp; 🕹️ Gaming
 
-## Technologies 📱
+# Technologies 📱
 
-
-### Frontend
+## Frontend
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
 </p>
 
-### Backend
+## Backend
 
 <p float="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
@@ -34,7 +33,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
 </p>
 
-### Deployment / Testing / Workspaces
+## Deployment / Testing / Workspaces
 
 <p float="left">
     <img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="20px" />
@@ -44,7 +43,7 @@
     <img src="https://camo.githubusercontent.com/bc74832583eee75257321cc7e23d5c87f3207a191af4dd6fab5147949bb68e25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2532302d2532334342333833372e7376673f267374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d626c61636b" height="20px" />
 </p>
 
-## My GitHub Stats
+# My GitHub Stats
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=blue-green)]<br/><br/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&count_private=true&show_icons=true&theme=radical&custom_title=Top%20Shelf%20Dev%20Stats)<br/><br/>
