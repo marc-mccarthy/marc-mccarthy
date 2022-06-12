@@ -43,8 +43,9 @@
     <img src="https://camo.githubusercontent.com/bc74832583eee75257321cc7e23d5c87f3207a191af4dd6fab5147949bb68e25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2532302d2532334342333833372e7376673f267374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d626c61636b" height="20px" />
 </p>
 
-# My GitHub Stats
+# GitHub Stats
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=blue-green)]<br/><br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&count_private=true&show_icons=true&theme=radical&custom_title=Top%20Shelf%20Dev%20Stats)<br/><br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&theme=blue-green&custom_title=What%20I'm%20Cooking%20With:)<br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=gruvbox&card_width=300)<br/><br/>
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&count_private=true&show_icons=true&theme=solarized-dark&custom_title=2022%20Stats:)<br/><br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&theme=blue-green&card_width=300&custom_title=What%20I'm%20Cooking%20Up:)<br/><br/>
+
