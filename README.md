@@ -6,7 +6,7 @@
 
 ### My name is Marc. Some interests:
 
-&bull; 💻 Full Stack Development &nbsp;&nbsp;&bull; 🎓 Learning &nbsp;&nbsp;&bull; 🪐 Space Exploration &nbsp;&nbsp;&bull; 🌏 Climate Science &nbsp;&nbsp;&bull; 📜 Philosophy &nbsp;&nbsp;&bull; 🏈 Sports &nbsp;&nbsp;&bull; 🐶 Animal Rights &nbsp;&nbsp;&bull; 🏃 Running &nbsp;&nbsp;&bull; 🥇 Special Olympics &nbsp;&nbsp;&bull; 📚 Reading &nbsp;&nbsp;&bull; 📈 Forex/Stock Trading &nbsp;&nbsp;&bull; 💲 Fintech &nbsp;&nbsp;&bull; 🕹️ Gaming
+&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stock Trading</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 
 # Technologies 📱
 
