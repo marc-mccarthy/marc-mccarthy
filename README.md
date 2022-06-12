@@ -6,11 +6,11 @@
 
 ### My name is Marc. Some interests:
 
-💻 Full Stack Development &nbsp;&nbsp; 🎓 Learning &nbsp;&nbsp; 🪐 Space Exploration &nbsp;&nbsp; 🌏 Climate Science &nbsp;&nbsp; 📜 Philosophy &nbsp;&nbsp; 🏈 Sports &nbsp;&nbsp; 🐶 Animal Rights &nbsp;&nbsp; 🏃 Running &nbsp;&nbsp; 🥇 Special Olympics &nbsp;&nbsp; 📈 Forex/Stock Trading &nbsp;&nbsp; 💲 Fintech &nbsp;&nbsp; 🕹️ Gaming
+&bull; 💻 Full Stack Development &nbsp;&nbsp;&bull; 🎓 Learning &nbsp;&nbsp;&bull; 🪐 Space Exploration &nbsp;&nbsp;&bull; 🌏 Climate Science &nbsp;&nbsp;&bull; 📜 Philosophy &nbsp;&nbsp;&bull; 🏈 Sports &nbsp;&nbsp;&bull; 🐶 Animal Rights &nbsp;&nbsp;&bull; 🏃 Running &nbsp;&nbsp;&bull; 🥇 Special Olympics &nbsp;&nbsp;&bull; 📚 Reading &nbsp;&nbsp;&bull; 📈 Forex/Stock Trading &nbsp;&nbsp;&bull; 💲 Fintech &nbsp;&nbsp;&bull; 🕹️ Gaming
 
 # Technologies 📱
 
-## Frontend
+### Frontend
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
 </p>
 
-## Backend
+### Backend
 
 <p float="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
 </p>
 
-## Deployment / Testing / Workspaces
+### Deployment / Testing / Workspaces
 
 <p float="left">
     <img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="20px" />
@@ -45,7 +45,6 @@
 
 # GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=gruvbox&card_width=300)<br/><br/>
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&count_private=true&show_icons=true&theme=solarized-dark&custom_title=2022%20Stats:)<br/><br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&theme=blue-green&card_width=300&custom_title=What%20I'm%20Cooking%20Up:)<br/><br/>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&border_radius=true&theme=vision-friendly-dark&custom_title=Total%20Stats:)<br/>
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&border_radius=true&count_private=true&show_icons=true&theme=algolia&custom_title=2022%20Stats:)<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&border_radius=true&theme=chartreuse-dark&custom_title=Ingredients:)
