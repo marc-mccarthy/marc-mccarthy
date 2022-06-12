@@ -49,10 +49,10 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="24px"/>
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="24px"/>
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="24px"/>
 </p>
 
 ### Professional
@@ -64,7 +64,10 @@
     <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" height="24px"/>
 </p>
 
 ### Design
@@ -83,17 +86,17 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="24px"/>
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="24px"/>
 </p>
 
-# Statistics &nbsp; 
-![🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter)<br/></br>
-![🏆 Trophy Stats](https://github-profile-trophy.vercel.app/?username=marc-mccarthy&custom_title=Page%20Hits:)<br/><br/>
-![💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy)<br/><br/>
-![⏱ Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&theme=vision-friendly-dark&custom_title=Total%20Stats:)<br/><br/>
+# Statistics &nbsp; ![🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)<br/></br>
+![🏆 Trophy Stats](https://github-profile-trophy.vercel.app/?username=marc-mccarthy&border_radius=true&custom_title=Page%20Hits:)<br/><br/>
+![⏱ Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:)<br/><br/>
+![💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy&count_private=true&border_radius=true)<br/><br/>
 ![📟 GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc-mccarthy&border_radius=true&count_private=true&show_icons=true&theme=algolia&custom_title=2022%20Stats:)<br/><br/>
-![📊 Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&border_radius=true&theme=chartreuse-dark&custom_title=Ingredients:)</br></br>
-![📈 Activity Graph](https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal)<br/><br/>
+![📊 Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&theme=chartreuse-dark&custom_title=Ingredients:)</br></br>
+![📈 Activity Graph](https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal&count_private=true)<br/><br/>
 
 ### Next Up (No Particular Order):
 
@@ -103,8 +106,10 @@
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="24px"/>
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure" height="24px"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="24px"/>
@@ -114,4 +119,8 @@
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="24px"/>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="24px"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="24px"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"24px"/>
+    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"24px"/>
 </p>
