@@ -1,8 +1,8 @@
 # Sláinte 🤙
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/topshelfdev/)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCMY5h9oJp6lHcOs_SvR5k9Q)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/top_shelf_dev)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](www.linkedin.com/in/themarcmccarthy)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/themarcmccarthy)
 
 ### My name is Marc. Some interests:
 
