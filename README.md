@@ -1,26 +1,17 @@
+# Sláinte 🤙
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/topshelfdev/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCMY5h9oJp6lHcOs_SvR5k9Q)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/top_shelf_dev)
 
-### My name is Marc McCarthy and I have so many interests...
+### My name is Marc. Some interests:
 
-- 💻 &nbsp; Full Stack Software Engineer
-- 🎓 &nbsp; Learning
-- 🪐 &nbsp; Space Exploration
-- 🌏 &nbsp; Climate Science
-- 📜 &nbsp; Philosophy
-- 🏈 &nbsp; Sports
-- 🐶 &nbsp; Animal Rights
-- 🏃 &nbsp; Running
-- 🥇 &nbsp; Special Olympics
-- 📈 &nbsp; Forex/Stock Trading
-- 💲 &nbsp; Fintech
-- 🕹️ &nbsp; Gaming
-- 🤯 &nbsp; Mind Hacking
+💻 Full Stack Development &nbsp;&nbsp; 🎓 Learning &nbsp;&nbsp; 🪐 Space Exploration &nbsp;&nbsp; 🌏 Climate Science &nbsp;&nbsp; 📜 Philosophy &nbsp;&nbsp; 🏈 Sports &nbsp;&nbsp; 🐶 Animal Rights &nbsp;&nbsp; 🏃 Running &nbsp;&nbsp; 🥇 Special Olympics &nbsp;&nbsp; 📈 Forex/Stock Trading &nbsp;&nbsp; 💲 Fintech &nbsp;&nbsp; 🕹️ Gaming
 
-# Technologies 💻
+## Technologies 📱
 
-## Frontend
+
+### Frontend
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -30,13 +21,12 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="23px" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
 </p>
 
-## Backend
+### Backend
 
 <p float="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
@@ -44,7 +34,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
 </p>
 
-## Deployment / Testing / Workspaces
+### Deployment / Testing / Workspaces
 
 <p float="left">
     <img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="20px" />
@@ -56,6 +46,6 @@
 
 ## My GitHub Stats
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=blue-green)](https://topshelfdev.io)<br/><br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats)<br/><br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)<br/><br/>
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=top-shelf-dev&theme=blue-green)]<br/><br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=top-shelf-dev&count_private=true&show_icons=true&theme=radical&custom_title=Top%20Shelf%20Dev%20Stats)<br/><br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top-shelf-dev&theme=blue-green&custom_title=What%20I'm%20Cooking%20With:)<br/><br/>
