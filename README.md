@@ -9,11 +9,11 @@
 
 ### My name is Marc. Some interests:
 
-&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b>
-&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b>
-&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b>
-&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b>
-&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
+&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;
+&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;
+&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;
+&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;
+&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b> &nbsp;&nbsp;
 
 # Technologies 📱
 
@@ -72,6 +72,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Airtable-18BFFF?style=plastic&logo=Airtable&logoColor=white" height="22px"/>
