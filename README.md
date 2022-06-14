@@ -7,9 +7,9 @@
     <a href="https://github.com/marc-mccarthy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter" height="22px"></a>
 </h2>
 
-<table border="0">
-    <tr style="text-align:center">
-        <td style="border:none; width:30%; text-align:center">
+<table style="border:none">
+    <tr style="text-align:center; border:none">
+        <td style="border:none; width:35%; text-align:center">
             <ul style="list-style-type:none">
                 <li>💻 <b>Full Stack Dev</b></li>
                 <li>🪐 <b>Space</b></li>
@@ -25,7 +25,7 @@
                 <li>📈 <b>Forex/Stocks</b></li>
                 <li>💲 <b>Fintech</b></li>
             </ul>
-        <td style="border:none; width:70%"><img src="./images/code-draw.gif"></td>
+        <td style="border:none"><img src="./images/code-draw.gif"></td>
     </tr>
 </table>
 
