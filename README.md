@@ -9,7 +9,7 @@
 
 <table style="border:none">
     <tr style="text-align:center; border:none">
-        <td style="border:none; width:40%; text-align:center">
+        <td style="border:none; width:170px; text-align:center">
             <ul style="list-style-type:none">
                 <li>💻 <b>Full Stack Dev</b></li>
                 <li>🪐 <b>Space</b></li>
@@ -25,7 +25,7 @@
                 <li>📈 <b>Forex/Stocks</b></li>
                 <li>💲 <b>Fintech</b></li>
             </ul>
-        <td style="border:none; width:60%"><img src="./images/code-draw.gif"></td>
+        <td style="border:none"><img src="./images/code-draw.gif"></td>
     </tr>
 </table>
 
