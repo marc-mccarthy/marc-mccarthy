@@ -1,23 +1,21 @@
-## Sláinte 🤙 ![GitHub Latest Commit](https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy)
-<!---[🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)
---->
-<h3>
-    <a
+<h2>Sláinte! 🤙 &nbsp;&nbsp;<a
     href="mailto:marstheory20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="22px"></a>
     <a href="https://www.linkedin.com/in/themarcmccarthy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="22px"></a>
     <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" height="22px"></a>
-    <a href="https://twitter.com/themarcmccarthy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" height="22px"></a>
-</h3>
+    <a href="https://twitter.com/themarcmccarthy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" height="22px"></a>&nbsp;&nbsp;
+    <a href="https://github.com/marc-mccarthy"><img src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="22px"></a>
+    <a href="https://github.com/marc-mccarthy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter" height="22px"></a>
+</h2>
 
 <h3 align="center">
     <img src="./images/code-draw.gif" height="250px">
 </h3>
 
-### <h3 align="center">My name is Marc. Some interests:</h3>
+<h2 align="center">My name is Marc. Some interests:</h2>
 
 &bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b><br>&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b></b><br>&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 
-### <h3 align="center"><u>Technologies</u> 🤖</h3>
+<h3 align="center"><u>Technologies</u> 🤖</h3>
 
 #### Frontend
 
@@ -100,7 +98,7 @@
     <img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white" height="22px"/>
 </h3>
 
-### <h3 align="center"><u>Statistics</u> 🧮</h3><br>
+<h3 align="center"><u>Statistics</u> 🧮</h3><br>
 
 ![🏆 Trophy Stats](https://github-profile-trophy.vercel.app/?username=marc-mccarthy&border_radius=true&custom_title=Page%20Hits:)<br/><br/>
 ![⏱ Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:)<br/><br/>
