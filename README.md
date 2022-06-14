@@ -1,14 +1,16 @@
-## Sláinte 🤙 ![GitHub Latest Commit](https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy) ![🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)
-
+## Sláinte 🤙 ![GitHub Latest Commit](https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy)
+<!---[🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)
+--->
 <h3>
-    <a href="mailto:marstheory20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="22px"></a>
+    <a
+    href="mailto:marstheory20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="22px"></a>
     <a href="https://www.linkedin.com/in/themarcmccarthy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="22px"></a>
     <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" height="22px"></a>
     <a href="https://twitter.com/themarcmccarthy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" height="22px"></a>
 </h3>
 
 <h3 align="center">
-    <img src="./images/i-love-coding.gif" height="250px">
+    <img src="./images/code-draw.gif" height="250px">
 </h3>
 
 ### <h3 align="center">My name is Marc. Some interests:</h3>
