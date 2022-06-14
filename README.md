@@ -1,4 +1,4 @@
-# Sláinte 🤙 ![GitHub Latest Commit](https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy)
+## Sláinte 🤙 ![GitHub Latest Commit](https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy) ![🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)
 
 <h3>
     <a href="mailto:marstheory20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="22px"></a>
@@ -7,14 +7,17 @@
     <a href="https://twitter.com/themarcmccarthy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" height="22px"></a>
 </h3>
 
-![Coding & Drawing](./images/coding-drawing.gif)
+<h3 align="center">
+    <img src="./images/i-love-coding.gif" height="250px">
+</h3>
 
-### My name is Marc. Some interests:
+### <h3 align="center">My name is Marc. Some interests:</h3>
 
-&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
-# Technologies 📱
+&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b><br>&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b></b><br>&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 
-### Frontend
+### <h3 align="center"><u>Technologies</u> 🤖</h3>
+
+#### Frontend
 
 <h3>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
@@ -31,7 +34,7 @@
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox-Browser&logoColor=white" height="22px"/>
 </h3>
 
-### Backend
+#### Backend
 
 <h3>
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="22px"/>
@@ -41,7 +44,7 @@
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=plastic&logo=DigitalOcean&logoColor=white" height="22px"/>
 </h3>
 
-### Development
+#### Development
 
 <h3>
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
@@ -59,7 +62,7 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" height="22px"/>
 <h3>
 
-### Professional
+#### Professional
 
 <h3>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" height="22px"/>
@@ -75,7 +78,7 @@
     <img src="https://img.shields.io/badge/Airtable-18BFFF?style=plastic&logo=Airtable&logoColor=white" height="22px"/>
 <h3>
 
-### Design
+#### Design
 
 <h3>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" height="22px"/>
@@ -84,7 +87,7 @@
     <img src="https://img.shields.io/badge/Unsplash-000000?style=plastic&logo=Unsplash&logoColor=white" height="22px"/>
 </h3>
 
-### Operating Systems
+#### Operating Systems
 
 <h3>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
@@ -95,7 +98,8 @@
     <img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white" height="22px"/>
 </h3>
 
-# Statistics &nbsp; ![🎯 Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true)<br/></br>
+### <h3 align="center"><u>Statistics</u> 🧮</h3><br>
+
 ![🏆 Trophy Stats](https://github-profile-trophy.vercel.app/?username=marc-mccarthy&border_radius=true&custom_title=Page%20Hits:)<br/><br/>
 ![⏱ Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:)<br/><br/>
 ![💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy&count_private=true&border_radius=true&theme=monokai)<br/><br/>
@@ -103,7 +107,7 @@
 ![📊 Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&theme=chartreuse-dark&custom_title=Ingredients:)</br></br>
 ![📈 Activity Graph](https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal&count_private=true)<br/><br/>
 
-### Next Up (No Particular Order):
+### <h3 align="center"><u>Next Up (No Particular Order):</u></h3>
 
 <h3>
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white" height="22px"/>
