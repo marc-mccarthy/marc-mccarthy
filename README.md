@@ -25,7 +25,7 @@
                 <li>📈 <b>Forex/Stocks</b></li>
                 <li>💲 <b>Fintech</b></li>
             </ul>
-        <td style="border:none; width:70%"><img src="./images/5.gif"></td>
+        <td style="border:none; width:70%"><img src="./images/code-draw.gif"></td>
     </tr>
 </table>
 
