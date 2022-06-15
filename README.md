@@ -4,7 +4,7 @@
     <img src="./images/code-draw.gif" height="250px">
 </h3>
 
-&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🎓 <b>Learning</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b><br> &bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
+&bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b><br> &bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 
 ### <h3 align="center"><u>Technologies</u> 🤖</h3>
 
