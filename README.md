@@ -1,4 +1,4 @@
-<h3 align="center">🍺 Sláinte, welcome to Marc McCarthy's Page 🍺</h3>
+<h2 align="center">🍺 Sláinte, welcome to Marc McCarthy's Page 🍺</h2>
 
 <p align="center">
     <a href="https://github.com/marc-mccarthy"><img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/></a>
@@ -33,12 +33,12 @@
 
 <h3 align="center">📘 Favorite Repos</h3>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=find-pokemon&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy.github.io&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-month-picker&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="300px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=find-pokemon&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy.github.io&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-month-picker&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
 </p>
 
 <p align="center">
@@ -126,13 +126,13 @@
     <!--------------------- 🏆 Trophy Stats ---------------------->
     <img src="https://github-profile-trophy.vercel.app/?username=marc-mccarthy&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&border_radius=true&custom_title=Page%20Hits:" width="100%" height="160px"/>
     <!--------------------- ⏱ Streak Stats ---------------------->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" height="186px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
     <!--------------------- 📟 2022 GitHub Stats ---------------------->
-    <img src="https://github-readme-stats.vercel.app/api?username=marc-mccarthy&border_radius=true&count_private=true&show_icons=true&theme=algolia&custom_title=2022%20Stats:" height="186px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=marc-mccarthy&count_private=true&show_icons=true&theme=algolia&custom_title=2022%20Stats:" width="415px" height="200px"/>
     <!--------------------- 💳 Github Profile Summary Card ---------------------->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy&count_private=true&border_radius=true&theme=monokai" height="190px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy&count_private=true&border_radius=true&theme=monokai" width="585px" height="200px"/>
     <!--------------------- 📊 Most Used Language ---------------------->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&border_radius=true&theme=chartreuse-dark&custom_title=Ingredients:" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&border_radius=true&theme=chartreuse-dark&custom_title=Ingredients:" width="245px" height="200px"/>
     <!--------------------- 📈 Activity Graph ---------------------->
     <img src="https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal&count_private=true" height="350px"/>
 <p>
