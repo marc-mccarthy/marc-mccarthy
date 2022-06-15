@@ -38,7 +38,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=find-pokemon&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy.github.io&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-month-picker&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=marc-mccarthy&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=jquery-server-calculator&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
 </p>
 
 <p align="center">
