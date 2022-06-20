@@ -18,7 +18,7 @@
 <h3 align="center">🪂 Heroku Deployed Projects</h3>
 
 <p align="center">
-    <a href="https://redux-feedback-loop-2.herokuapp.com/">
+    <a href="https://redux-feedback-loop-1.herokuapp.com/">
         <img alt="Redux Feedback Loop Heroku Link" title="Redux Feedback Loop Heroku Link" src="https://img.shields.io/badge/-Redux%20Feedback%20Loop-blue?style=for-the-badge&logoColor=white" height="35px" width="175px"/></a>
     <a href="https://react-gallery-2.herokuapp.com/">
         <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-React%20Gallery-green?style=for-the-badge&logoColor=white"  height="35px" width="175px"/></a>
