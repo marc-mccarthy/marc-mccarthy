@@ -30,7 +30,7 @@
 
 <h3 align="center">🎲 Interests</h3>
 <p>
-    &bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
+    &bull; 💻 <b>Full Stack Dev</b> &nbsp;&nbsp;&bull; 🎭 <b>Comedy</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 </p>
 
 <h3 align="center">📘 Favorite Repos</h3>
@@ -190,5 +190,5 @@
     <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?from_search=true&from_srp=true&qid=GJ1zsnajB9&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg" height="200px" width="135px"/></a>
     <a href="https://www.goodreads.com/book/show/1963638.The_Untethered_Soul?from_search=true&from_srp=true&qid=j3r4RcFW61&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354898395i/1963638.jpg" height="200px" width="135px"/></a>
     <a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic?from_search=true&from_srp=true&qid=LDxQlp4kRQ&rank=3"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462161080i/29093292.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/11084145-steve-jobs?from_search=true&from_srp=true&qid=MrmBkG5EDE&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg" height="200px" width="135px"/></a> 
+    <a href="https://www.goodreads.com/book/show/11084145-steve-jobs?from_search=true&from_srp=true&qid=MrmBkG5EDE&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg" height="200px" width="135px"/></a>
 </p>
