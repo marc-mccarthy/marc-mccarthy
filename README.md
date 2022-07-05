@@ -18,7 +18,7 @@
 <h3 align="center">🪂 Heroku Deployed Projects</h3>
 
 <p align="center">
-    <a href="https://movie-sagas-1.herokuapp.com/">
+    <a href="https://movies-sagas-1.herokuapp.com/#/">
         <img alt="Movie Sagas Heroku Link" title="Movie Sagas Heroku Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
     <a href="https://redux-feedback-loop-1.herokuapp.com/">
         <img alt="Redux Feedback Loop Heroku Link" title="Redux Feedback Loop Heroku Link" src="https://img.shields.io/badge/-Feedback%20Loop-blue?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
