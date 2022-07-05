@@ -37,12 +37,12 @@
 
 <h3 align="center">📘 Favorite Repos</h3>
 <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=movie-sagas&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=find-pokemon&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-month-picker&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=jquery-server-calculator&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
 </p>
 
 <p align="center">
