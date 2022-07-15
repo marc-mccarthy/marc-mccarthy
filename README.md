@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/marc-mccarthy"><img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/></a>
     <a href="mailto:marstheory20@gmail.com"><img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/></a>
-    <a href="https://www.linkedin.com/in/themarcmccarthy"><img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/></a>
+    <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/></a>
     <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA"><img alt="YouTube Link" title="YouTube Link" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30px" width="100px"/></a>
     <a href="https://twitter.com/themarcmccarthy"><img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px" width="100px"/></a>
     &nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 <h3 align="center">🪂 Heroku Deployed Projects</h3>
 
 <p align="center">
-    <a href="https://movies-sagas-1.herokuapp.com/#/">
+    <a href="https://movie-sagas-1.herokuapp.com/#/">
         <img alt="Movie Sagas Heroku Link" title="Movie Sagas Heroku Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
     <a href="https://react-gallery-2.herokuapp.com/">
         <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-React%20Gallery-green?style=for-the-badge&logoColor=white"  height="35px" width="100px"/></a>
