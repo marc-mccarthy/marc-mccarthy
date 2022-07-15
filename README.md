@@ -20,14 +20,10 @@
 <p align="center">
     <a href="https://movies-sagas-1.herokuapp.com/#/">
         <img alt="Movie Sagas Heroku Link" title="Movie Sagas Heroku Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
-    <a href="https://redux-feedback-loop-1.herokuapp.com/">
-        <img alt="Redux Feedback Loop Heroku Link" title="Redux Feedback Loop Heroku Link" src="https://img.shields.io/badge/-Feedback%20Loop-blue?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
     <a href="https://react-gallery-2.herokuapp.com/">
-        <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-Gallery-green?style=for-the-badge&logoColor=white"  height="35px" width="100px"/></a>
+        <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-React%20Gallery-green?style=for-the-badge&logoColor=white"  height="35px" width="100px"/></a>
     <a href="https://sql-to-do-list-1.herokuapp.com/">
-        <img alt="SQL To-Do List Heroku Link" title="SQL To-Do List Heroku Link" src="https://img.shields.io/badge/-To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
-    <a href="https://find-pokemon-1.herokuapp.com/">
-        <img alt="Find Pokemon Heroku Link" title="Find Pokemon Heroku Link" src="https://img.shields.io/badge/-Find%20Pokemon-yellow?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
+        <img alt="SQL To-Do List Heroku Link" title="SQL To-Do List Heroku Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
 </p>
 
 <h3 align="center">🎲 Interests</h3>
