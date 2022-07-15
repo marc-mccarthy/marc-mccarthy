@@ -7,12 +7,12 @@
     <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA"><img alt="YouTube Link" title="YouTube Link" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30px" width="100px"/></a>
     <a href="https://twitter.com/themarcmccarthy"><img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px" width="100px"/></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/themarcmccarthy"><img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/></a>
+    <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/></a>
     <a href="https://www.linkedin.com/in/themarcmccarthy"><img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/themarcmccarthy"><img src="/images/funny-dance.gif" height="300px"></a>
+  <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img src="/images/code-draw.gif" height="300px"></a>
 </p>
 
 <h3 align="center">🪂 Heroku Deployed Projects</h3>
