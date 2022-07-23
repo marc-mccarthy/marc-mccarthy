@@ -1,5 +1,7 @@
+<!--------------------- Introduction ---------------------->
 <h2 align="center">🍺 Sláinte, welcome to Marc McCarthy's Page 🍺</h2>
 
+<!--------------------- Social Links ---------------------->
 <p align="center">
     <a href="https://github.com/marc-mccarthy"><img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/></a>
     <a href="mailto:marstheory20@gmail.com"><img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/></a>
@@ -11,41 +13,51 @@
     <a href="https://www.linkedin.com/in/themarcmccarthy"><img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/></a>
 </p>
 
+<!--------------------- Fun Image Like Me ---------------------->
 <p align="center">
   <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img src="/images/code-draw.gif" height="300px"></a>
 </p>
 
+<!--------------------- 🏆 Heroku Deployments (Managed) ---------------------->
 <h3 align="center">🪂 Heroku Deployed Projects</h3>
-
 <p align="center">
-    <a href="https://movie-sagas-1.herokuapp.com/#/">
-        <img alt="Movie Sagas Heroku Link" title="Movie Sagas Heroku Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
-    <a href="https://react-gallery-2.herokuapp.com/">
-        <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-React%20Gallery-green?style=for-the-badge&logoColor=white"  height="35px" width="100px"/></a>
-    <a href="https://sql-to-do-list-1.herokuapp.com/">
-        <img alt="SQL To-Do List Heroku Link" title="SQL To-Do List Heroku Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="100px"/></a>
+    <a href="https://greener-footprints.herokuapp.com">
+        <img alt="Greener Foot(prints) Heroku Link" title="Greener Foot(prints) Heroku Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
+    <a href="https://movie-sagas-1.herokuapp.com/">
+        <img alt="Movie Sagas Heroku Link" title="Movie Sagas Heroku Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
+    <a href="https://react-gallery-2.herokuapp.com">
+        <img alt="React Gallery Heroku Link" title="React Gallery Heroku Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="35px" width="130px"/></a>
+    <a href="https://sql-to-do-list-1.herokuapp.com">
+        <img alt="SQL To-Do List Heroku Link" title="SQL To-Do List Heroku Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
+        <a href="https://redux-feedback-loop-1.herokuapp.com">
+        <img alt="Redux Feedback Loop Heroku Link" title="Feedback Loop Heroku Link" src="https://img.shields.io/badge/-Redux%20Feedback%20Loop-purple?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
 </p>
 
+<!--------------------- Various Interests ---------------------->
 <h3 align="center">🎲 Interests</h3>
 <p>
     &bull; 💻 <b>Full Stack Dev</b> &nbsp;&nbsp;&bull; 🎭 <b>Comedy</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
 </p>
 
+<!--------------------- My Current Favorite Repos ---------------------->
 <h3 align="center">📘 Favorite Repos</h3>
 <p align="center">
+    <a href="https://github.com/marc-mccarthy/greener-footprints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=greener-footprints&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/marc-mccarthy/movie-sagas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=movie-sagas&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/redux-feedback-loop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/marc-mccarthy/react-gallery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/marc-mccarthy/redux-feedback-loop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/marc-mccarthy/sql-to-do-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
     <a href="https://github.com/marc-mccarthy/find-pokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=find-pokemon&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/react-month-picker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-month-picker&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
 </p>
 
+<!--------------------- Link to All My Repos ---------------------->
 <p align="center">
   <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="35px" width="175px"/></a>
 </p>
 
+<!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
+<!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
@@ -62,6 +74,7 @@
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox-Browser&logoColor=white" height="22px"/>
 </p>
 
+<!--------------------- Backend ---------------------->
 <h4 align="center">Backend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="22px"/>
@@ -71,6 +84,7 @@
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=plastic&logo=DigitalOcean&logoColor=white" height="22px"/>
 </p>
 
+<!--------------------- Development ---------------------->
 <h4 align="center">Development</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
@@ -88,6 +102,7 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" height="22px"/>
 <p>
 
+<!--------------------- Professional ---------------------->
 <h4 align="center">Professional</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" height="22px"/>
@@ -103,6 +118,7 @@
     <img src="https://img.shields.io/badge/Airtable-18BFFF?style=plastic&logo=Airtable&logoColor=white" height="22px"/>
 <p>
 
+<!--------------------- Design ---------------------->
 <h4 align="center">Design</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" height="22px"/>
@@ -111,6 +127,7 @@
     <img src="https://img.shields.io/badge/Unsplash-000000?style=plastic&logo=Unsplash&logoColor=white" height="22px"/>
 </p>
 
+<!--------------------- Operating Systems ---------------------->
 <h4 align="center">Operating Systems</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
@@ -121,6 +138,7 @@
     <img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white" height="22px"/>
 </p>
 
+<!--------------------- Github Info For Tracking Progress ---------------------->
 <h3 align="center">🔥 Streaks & Stats</h3>
 <p align="center">
     <!--------------------- 🏆 Trophy Stats ---------------------->
@@ -137,6 +155,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal&count_private=true" height="350px"/>
 <p>
 
+<!--------------------- My Future Endeavors ---------------------->
 <h3 align="center">🎓 Learn Next (No Particular Order):</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white" height="22px"/>
@@ -163,6 +182,7 @@
     <img src="https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white" height="22px"/>
 </p>
 
+<!--------------------- Great List Of Knowledge Assets ---------------------->
 <h3 align="center">📚 Books on Tap 2022</h3>
 <p align="center">
     <a href="https://www.goodreads.com/book/show/18144590-the-alchemist?from_search=true&from_srp=true&qid=z4hFDVFDCE&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" height="200px" width="135px"/></a>
