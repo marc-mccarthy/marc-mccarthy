@@ -19,7 +19,7 @@
 </p>
 
 <!--------------------- 🏆 Deployed Projects on my Website (Managed) ---------------------->
-<h3 align="center">🪂 Heroku Deployed Projects</h3>
+<h3 align="center">🪂 Deployed Projects (marcmccarthy.io)</h3>
 <p align="center">
     <a href="https://greener-footprints.marcmccarthy.io">
         <img alt="Greener Foot(prints) Link" title="Greener Foot(prints) Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
