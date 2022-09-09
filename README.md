@@ -19,7 +19,7 @@
 </p>
 
 <!--------------------- 🏆 Deployed Projects on my Website (Managed) ---------------------->
-<h3 align="center">🪂 Deployed Projects (marcmccarthy.io)</h3>
+<h3 align="center">🪂 Deployed Projects on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
 <p align="center">
     <a href="https://greener-footprints.marcmccarthy.io">
         <img alt="Greener Foot(prints) Link" title="Greener Foot(prints) Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
@@ -169,10 +169,11 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" height="22px"/>
     <img src="https://img.shields.io/badge/fastapi-109989?style=plastic&logo=FASTAPI&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=plastic&logo=Clojure&logoColor=Clojure" height="22px"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="22px"/>
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" height="22px"/>
