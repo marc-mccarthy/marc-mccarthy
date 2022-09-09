@@ -3,36 +3,58 @@
 
 <!--------------------- Social Links ---------------------->
 <p align="center">
-    <a href="https://github.com/marc-mccarthy"><img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/></a>
-    <a href="mailto:marstheory20@gmail.com"><img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/></a>
-    <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/></a>
-    <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA"><img alt="YouTube Link" title="YouTube Link" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30px" width="100px"/></a>
-    <a href="https://twitter.com/themarcmccarthy"><img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px" width="100px"/></a>
+    <a href="https://github.com/marc-mccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
+    </a>
+    <a href="mailto:marstheory20@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA" target="_blank" rel="noopener noreferrer">
+      <img alt="YouTube Link" title="YouTube Link" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30px" width="100px"/>
+    </a>
+    <a href="https://twitter.com/themarcmccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px" width="100px"/>
+    </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/></a>
-    <a href="https://www.linkedin.com/in/themarcmccarthy"><img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/></a>
+    <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/themarcmccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.     seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/>
+    </a>
 </p>
 
 <!--------------------- Fun Image Like Me ---------------------->
 <p align="center">
-  <a href="https://www.linkedin.com/in/the-marc-mccarthy"><img src="/images/code-draw.gif" height="300px"></a>
+  <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
+    <img src="/images/code-draw.gif" height="300px">
+  </a>
 </p>
 
 <!--------------------- 🏆 Deployed Projects on my Website (Managed) ---------------------->
 <h3 align="center">🪂 Deployed Projects on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
 <p align="center">
-    <a href="https://greener-footprints.marcmccarthy.io">
-        <img alt="Greener Foot(prints) Link" title="Greener Foot(prints) Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
-    <a href="https://police-conduct.marcmccarthy.io">
-        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-yellow?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
-    <a href="https://movie-sagas.marcmccarthy.io">
-        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
-    <a href="https://react-gallery.marcmccarthy.io">
-        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="35px" width="130px"/></a>
-    <a href="https://sql-to-do-list.marcmccarthy.io/">
-        <img alt="SQL To-Do List Link" title="SQL To-Do List Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
-        <a href="https://redux-feedback-loop.marcmccarthy.io">
-        <img alt="Redux Feedback Loop Link" title="Redux Feedback Loop Link" src="https://img.shields.io/badge/-Redux%20Feedback%20Loop-purple?style=for-the-badge&logoColor=white" height="35px" width="130px"/></a>
+    <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+        <img alt="Greener Foot(prints) Link" title="Greener Foot(prints) Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+    </a>
+    <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-yellow?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+    </a>
+    <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+    </a>
+    <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="35px" width="130px"/>
+    </a>
+    <a href="https://sql-to-do-list.marcmccarthy.io/" target="_blank" rel="noopener noreferrer">
+        <img alt="SQL To-Do List Link" title="SQL To-Do List Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+    </a>
+        <a href="https://redux-feedback-loop.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+        <img alt="Redux Feedback Loop Link" title="Redux Feedback Loop Link" src="https://img.shields.io/badge/-Redux%20Feedback%20Loop-purple?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+    </a>
 </p>
 
 <!--------------------- Various Interests ---------------------->
@@ -44,17 +66,31 @@
 <!--------------------- My Current Favorite Repos ---------------------->
 <h3 align="center">📘 Favorite Repos</h3>
 <p align="center">
-    <a href="https://github.com/marc-mccarthy/greener-footprints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=greener-footprints&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/yelp-its-the-police"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=yelp-its-the-police&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/movie-sagas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=movie-sagas&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/react-gallery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/redux-feedback-loop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
-    <a href="https://github.com/marc-mccarthy/sql-to-do-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/></a>
+    <a href="https://github.com/marc-mccarthy/greener-footprints" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=greener-footprints&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
+    <a href="https://github.com/marc-mccarthy/yelp-its-the-police" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=yelp-its-the-police&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
+    <a href="https://github.com/marc-mccarthy/movie-sagas" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=movie-sagas&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
+    <a href="https://github.com/marc-mccarthy/react-gallery" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
+    <a href="https://github.com/marc-mccarthy/redux-feedback-loop" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
+    <a href="https://github.com/marc-mccarthy/sql-to-do-list" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
+    </a>
 </p>
 
 <!--------------------- Link to All My Repos ---------------------->
 <p align="center">
-  <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="35px" width="175px"/></a>
+  <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="35px" width="175px"/>
+  </a>
 </p>
 
 <!--------------------- Technologies That I Have Used ---------------------->
@@ -188,28 +224,75 @@
 <!--------------------- Great List Of Knowledge Assets ---------------------->
 <h3 align="center">📚 Books on Tap 2022</h3>
 <p align="center">
-    <a href="https://www.goodreads.com/book/show/18144590-the-alchemist?from_search=true&from_srp=true&qid=z4hFDVFDCE&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before?from_search=true&from_srp=true&qid=1LiuCSoMHu&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628533378i/58536046.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie?from_search=true&from_srp=true&qid=IiyR0SDxTc&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/32998876-101-essays-that-will-change-the-way-you-think?from_search=true&from_srp=true&qid=GqfQirsf6d&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479346785i/32998876.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/40121378-atomic-habits?ref=nav_sb_ss_1_9"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535115320i/40121378.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/18077875-essentialism?from_search=true&from_srp=true&qid=erWKFYmPnB&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403165375i/18077875.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/30659.Meditations?from_search=true&from_srp=true&qid=klrRBVrtYO&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/40745.Mindset?ref=nav_sb_ss_1_7"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/25733573-reasons-to-stay-alive?from_search=true&from_srp=true&qid=Zf0fdQStay&rank=3"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453057036i/25733573.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/23692271-sapiens?from_search=true&from_srp=true&qid=cQEX3VGg5I&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/52036.Siddhartha?from_search=true&from_srp=true&qid=hQJt0SslL7&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/32895535-why-buddhism-is-true?from_search=true&from_srp=true&qid=nox25pbU1c&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500809335i/32895535.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?from_search=true&from_srp=true&qid=gOm1aVP9bU&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598011736i/54898389.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/76334.A_New_Earth?from_search=true&from_srp=true&qid=IQ2VSA6iEQ&rank=3"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388206232i/76334.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/60551.The_Book?from_search=true&from_srp=true&qid=hQfgZg88F7&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403166178i/60551.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/52246022-the-hermeticism-collection?from_search=true&from_srp=true&qid=U5FBWIvYDo&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560767027l/52246022.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up?from_search=true&from_srp=true&qid=J3vCOY3LkD&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418767178i/22318578.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/53780837-the-map-of-consciousness-explained?from_search=true&from_srp=true&qid=0csVwrqo8y&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591136354i/53780837.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary?from_search=true&from_srp=true&qid=GuE8GkirFV&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328826802i/6968772.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=fPscFIXW8d&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581527774i/41881472.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?from_search=true&from_srp=true&qid=GJ1zsnajB9&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/1963638.The_Untethered_Soul?from_search=true&from_srp=true&qid=j3r4RcFW61&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354898395i/1963638.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic?from_search=true&from_srp=true&qid=LDxQlp4kRQ&rank=3"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462161080i/29093292.jpg" height="200px" width="135px"/></a>
-    <a href="https://www.goodreads.com/book/show/11084145-steve-jobs?from_search=true&from_srp=true&qid=MrmBkG5EDE&rank=1"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg" height="200px" width="135px"/></a>
+    <a href="https://www.goodreads.com/book/show/18144590-the-alchemist?from_search=true&from_srp=true&qid=z4hFDVFDCE&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before?from_search=true&from_srp=true&qid=1LiuCSoMHu&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628533378i/58536046.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie?from_search=true&from_srp=true&qid=IiyR0SDxTc&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/32998876-101-essays-that-will-change-the-way-you-think?from_search=true&from_srp=true&qid=GqfQirsf6d&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479346785i/32998876.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/40121378-atomic-habits?ref=nav_sb_ss_1_9" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535115320i/40121378.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/18077875-essentialism?from_search=true&from_srp=true&qid=erWKFYmPnB&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403165375i/18077875.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/30659.Meditations?from_search=true&from_srp=true&qid=klrRBVrtYO&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/40745.Mindset?ref=nav_sb_ss_1_7" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/25733573-reasons-to-stay-alive?from_search=true&from_srp=true&qid=Zf0fdQStay&rank=3" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453057036i/25733573.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/23692271-sapiens?from_search=true&from_srp=true&qid=cQEX3VGg5I&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/52036.Siddhartha?from_search=true&from_srp=true&qid=hQJt0SslL7&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/32895535-why-buddhism-is-true?from_search=true&from_srp=true&qid=nox25pbU1c&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500809335i/32895535.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?from_search=true&from_srp=true&qid=gOm1aVP9bU&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598011736i/54898389.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/76334.A_New_Earth?from_search=true&from_srp=true&qid=IQ2VSA6iEQ&rank=3" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388206232i/76334.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/60551.The_Book?from_search=true&from_srp=true&qid=hQfgZg88F7&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403166178i/60551.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/52246022-the-hermeticism-collection?from_search=true&from_srp=true&qid=U5FBWIvYDo&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560767027l/52246022.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up?from_search=true&from_srp=true&qid=J3vCOY3LkD&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418767178i/22318578.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/53780837-the-map-of-consciousness-explained?from_search=true&from_srp=true&qid=0csVwrqo8y&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591136354i/53780837.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary?from_search=true&from_srp=true&qid=GuE8GkirFV&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328826802i/6968772.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=fPscFIXW8d&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581527774i/41881472.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?from_search=true&from_srp=true&qid=GJ1zsnajB9&rank=1" target="_blank" rel="noopener noreferrer"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/1963638.The_Untethered_Soul?from_search=true&from_srp=true&qid=j3r4RcFW61&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354898395i/1963638.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic?from_search=true&from_srp=true&qid=LDxQlp4kRQ&rank=3" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462161080i/29093292.jpg" height="200px" width="135px"/>
+    </a>
+    <a href="https://www.goodreads.com/book/show/11084145-steve-jobs?from_search=true&from_srp=true&qid=MrmBkG5EDE&rank=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg" height="200px" width="135px"/>
+    </a>
 </p>
