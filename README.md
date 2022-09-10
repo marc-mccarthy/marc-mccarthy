@@ -23,7 +23,7 @@
       <img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/>
     </a>
     <a href="https://www.linkedin.com/in/themarcmccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.     seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/>
+      <img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/>
     </a>
 </p>
 
