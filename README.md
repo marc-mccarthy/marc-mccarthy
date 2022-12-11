@@ -227,9 +227,6 @@
     <a href="https://www.goodreads.com/book/show/18144590-the-alchemist?from_search=true&from_srp=true&qid=z4hFDVFDCE&rank=1" target="_blank" rel="noopener noreferrer">
       <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" height="200px" width="135px"/>
     </a>
-    <a href="https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before?from_search=true&from_srp=true&qid=1LiuCSoMHu&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628533378i/58536046.jpg" height="200px" width="135px"/>
-    </a>
     <a href="https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie?from_search=true&from_srp=true&qid=IiyR0SDxTc&rank=1" target="_blank" rel="noopener noreferrer">
       <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900.jpg" height="200px" width="135px"/>
     </a>
