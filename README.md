@@ -1,5 +1,5 @@
 <!--------------------- Introduction ---------------------->
-<h2 align="center">🍺 Welcome to Marc McCarthy's Page 🍺</h2>
+<h2 align="center">🍺 Sláinte, welcome to Marc McCarthy's Page 🍺</h2>
 
 <!--------------------- Social Links ---------------------->
 <p align="center">
