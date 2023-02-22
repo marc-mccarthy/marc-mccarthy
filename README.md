@@ -30,7 +30,7 @@
 <!--------------------- Fun Image Like Me ---------------------->
 <p align="center">
   <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-    <img src="/images/explore-x.png" height="300px">
+    <img src="./images/explorer-x.png" height="300px">
   </a>
 </p>
 
@@ -38,22 +38,22 @@
 <h3 align="center">🪂 Deployed Projects on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
 <p align="center">
     <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Greener Foot(prints) Link" title="Greener Foot(prints) Link" src="https://img.shields.io/badge/-Greener%20Foot(prints)-darkgreen?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+        <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-darkgreen?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
     </a>
     <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-yellow?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-yellow?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
     </a>
     <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
     </a>
     <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="35px" width="130px"/>
+        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="30px" width="100px"/>
     </a>
     <a href="https://sql-to-do-list.marcmccarthy.io/" target="_blank" rel="noopener noreferrer">
-        <img alt="SQL To-Do List Link" title="SQL To-Do List Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+        <img alt="SQL To-Do List Link" title="SQL To-Do List Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
     </a>
         <a href="https://redux-feedback-loop.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Redux Feedback Loop Link" title="Redux Feedback Loop Link" src="https://img.shields.io/badge/-Redux%20Feedback%20Loop-purple?style=for-the-badge&logoColor=white" height="35px" width="130px"/>
+        <img alt="Redux Feedback Link" title="Redux Feedback Link" src="https://img.shields.io/badge/-Redux%20Feedback-purple?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
     </a>
 </p>
 
@@ -90,7 +90,7 @@
 <!--------------------- Link to All My Repos ---------------------->
 <p align="center">
   <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="35px" width="175px"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="30px" width="150px"/>
   </a>
 </p>
 
