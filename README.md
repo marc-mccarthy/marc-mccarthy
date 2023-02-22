@@ -30,7 +30,7 @@
 <!--------------------- Fun Image Like Me ---------------------->
 <p align="center">
   <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-    <img src="/images/code-draw.gif" height="300px">
+    <img src="/images/explore-x.png" height="300px">
   </a>
 </p>
 
