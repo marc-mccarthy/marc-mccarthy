@@ -103,14 +103,8 @@
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" height="22px"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox-Browser&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------- Backend ---------------------->
@@ -123,58 +117,28 @@
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=plastic&logo=DigitalOcean&logoColor=white" height="22px"/>
 </p>
 
-<!--------------------- Development ---------------------->
-<h4 align="center">Development</h4>
+<!--------------------- Tools ---------------------->
+<h4 align="center">Tools</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=plastic&logo=Nextcloud&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black" height="22px"/>
-    <img src="https://img.shields.io/badge/replit-667881?style=plastic&logo=replit&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/iTerm2-000000?style=plastic&logo=iterm2&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" height="22px"/>
-<p>
-
-<!--------------------- Professional ---------------------->
-<h4 align="center">Professional</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Figma-F22E1E?style=plastic&logo=figma&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Miro-050038?style=plastic&logo=Miro&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=plastic&logo=Airtable&logoColor=white" height="22px"/>
 <p>
-
-<!--------------------- Design ---------------------->
-<h4 align="center">Design</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Figma-F22E1E?style=plastic&logo=figma&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/gimp-5C5543?style=plastic&logo=gimp&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Unsplash-000000?style=plastic&logo=Unsplash&logoColor=white" height="22px"/>
-</p>
 
 <!--------------------- Operating Systems ---------------------->
 <h4 align="center">Operating Systems</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Linux-FCC622?style=plastic&logo=linux&logoColor=black" height="22px"/>
     <img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
@@ -199,17 +163,14 @@
 <!--------------------- My Future Endeavors ---------------------->
 <h3 align="center">🎓 Learn Next (No Particular Order):</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white" height="23px">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=plastic&logo=vim&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="22px"/>
     <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white" height="23px">
 </p>
 
 <!--------------------- Great List Of Knowledge Assets ---------------------->
