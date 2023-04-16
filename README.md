@@ -1,115 +1,78 @@
 <!--------------------- Introduction ---------------------->
-<h2 align="center">🍺 Sláinte, welcome to Marc McCarthy's Page 🍺</h2>
+<h2 align="center">🍺 Slainte 🍺</h2>
 
 <!--------------------- Social Links ---------------------->
 <p align="center">
     <a href="https://github.com/marc-mccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
+      <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="22px" width="80px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
+      <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="22px" width="80px"/>
     </a>
     <a href="mailto:marstheory20@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCjwzRyKjuJHm1mPw_KcGZUA" target="_blank" rel="noopener noreferrer">
-      <img alt="YouTube Link" title="YouTube Link" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30px" width="100px"/>
+      <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22px" width="80px"/>
     </a>
     <a href="https://twitter.com/themarcmccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px" width="100px"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="Last Commit" title="Last Commit" src="https://img.shields.io/github/last-commit/marc-mccarthy/marc-mccarthy" height="25px" width="100px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/themarcmccarthy" target="_blank" rel="noopener noreferrer">
-      <img alt="Profile Hit Counter" title="Profile Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarc-mccarthy1212%2Fhit-counter&border_radius=true" height="25px" width="100px"/>
+      <img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="22px" width="80px"/>
     </a>
 </p>
 
-<!--------------------- Fun Image Like Me ---------------------->
+<!--------------------- Images ---------------------->
 <p align="center">
   <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-    <img src="./images/funny-dance.gif" height="300px">
-    <!-- <img src="./images/mars-rider.png" height="300px"> -->
+    <img src="./images/mars-rider.png" height="300px" width="350px">
   </a>
 </p>
 
-<!--------------------- 🏆 Deployed Projects on my Website (Managed) ---------------------->
-<h3 align="center">🪂 Deployed Projects on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
+<!--------------------- 🏆 Deployed Projects on my Website ---------------------->
+<h2 align="center">Deployed Projects on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h2>
+
 <p align="center">
     <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-darkgreen?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
+        <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-black?style=for-the-badge&logoColor=white" height="22px" width="80px"/>
     </a>
     <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-yellow?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
+        <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-blue?style=for-the-badge&logoColor=white" height="22px" width="80px"/>
     </a>
     <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-red?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
+        <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-black?style=for-the-badge&logoColor=white" height="22px" width="80px"/>
     </a>
     <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white"  height="30px" width="100px"/>
-    </a>
-    <a href="https://sql-to-do-list.marcmccarthy.io/" target="_blank" rel="noopener noreferrer">
-        <img alt="SQL To-Do List Link" title="SQL To-Do List Link" src="https://img.shields.io/badge/-SQL%20To--Do%20List-orange?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
-    </a>
-        <a href="https://redux-feedback-loop.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-        <img alt="Redux Feedback Link" title="Redux Feedback Link" src="https://img.shields.io/badge/-Redux%20Feedback-purple?style=for-the-badge&logoColor=white" height="30px" width="100px"/>
+        <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-blue?style=for-the-badge&logoColor=white" height="22px" width="80px"/>
     </a>
 </p>
 
 <!--------------------- Various Interests ---------------------->
-<h3 align="center">🎲 Interests</h3>
-<p>
-    &bull; 💻 <b>Full Stack Dev</b> &nbsp;&nbsp;&bull; 🪐 <b>Space Exploration</b> &nbsp;&nbsp;&bull; 🌏 <b>Climate Science</b> &nbsp;&nbsp;&bull;  🎭 <b>Comedy</b> &nbsp;&nbsp;&bull; 📜 <b>Philosophy</b> &nbsp;&nbsp;&bull; 🏈 <b>Sports</b> &nbsp;&nbsp;&bull; 🐶 <b>Animal Rights</b> &nbsp;&nbsp;&bull; 🏍 <b>Motorcycles</b> &nbsp;&nbsp;&bull; 🥇 <b>Special Olympics</b> &nbsp;&nbsp;&bull; 📚 <b>Reading</b> &nbsp;&nbsp;&bull; 🏃 <b>Running</b> &nbsp;&nbsp;&bull; 📈 <b>Forex/Stocks</b> &nbsp;&nbsp;&bull; 💲 <b>Fintech</b> &nbsp;&nbsp;&bull; 🕹️ <b>Gaming</b>
-</p>
+<h2 align="center">Interests</h2>
 
-<!--------------------- My Current Favorite Repos
-<h3 align="center">📘 Favorite Repos</h3>
 <p align="center">
-    <a href="https://github.com/marc-mccarthy/greener-footprints" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?user=marc-mccarthy&repo=greener-footprints&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
-    <a href="https://github.com/marc-mccarthy/yelp-its-the-police" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=yelp-its-the-police&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
-    <a href="https://github.com/marc-mccarthy/movie-sagas" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=movie-sagas&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
-    <a href="https://github.com/marc-mccarthy/react-gallery" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=react-gallery&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
-    <a href="https://github.com/marc-mccarthy/redux-feedback-loop" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=redux-feedback-loop&&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
-    <a href="https://github.com/marc-mccarthy/sql-to-do-list" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-mccarthy&repo=sql-to-do-list&bg_color=DEG,086917,0e7ff5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="275px"/>
-    </a>
+    💻 <b>Full Stack Dev</b> &nbsp;&nbsp; 📈 <b>Forex/Stocks</b>  &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
 </p>
----------------------->
 
 <!--------------------- Link to All My Repos ---------------------->
 <p align="center">
   <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="30px" width="150px"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="25px" width="100px"/>
   </a>
 </p>
 
 <!--------------------- Technologies That I Have Used ---------------------->
-<h3 align="center">🤖 Technologies</h3>
+<h2 align="center">Technologies</h2>
+
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
+
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" height="22px"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------- Backend ---------------------->
 <h4 align="center">Backend</h4>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="22px"/>
@@ -120,21 +83,20 @@
 
 <!--------------------- Tools ---------------------->
 <h4 align="center">Tools</h4>
+
 <p align="center">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Figma-F22E1E?style=plastic&logo=figma&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 <p>
 
 <!--------------------- Operating Systems ---------------------->
 <h4 align="center">Operating Systems</h4>
+
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
@@ -143,91 +105,25 @@
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
-<h3 align="center">🔥 Streaks & Stats</h3>
 <p align="center">
-    <!--------------------- 🏆 Trophy Stats ---------------------->
-    <img src="https://github-profile-trophy.vercel.app/?username=marc-mccarthy&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&border_radius=true&custom_title=Page%20Hits:" width="100%" height="160px"/>
     <!--------------------- ⏱ Streak Stats ---------------------->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
-    <!--------------------- 📟 2023 GitHub Stats
-    <img src="https://github-readme-stats.vercel.app/api?username=marc-mccarthy&count_private=true&show_icons=true&theme=algolia&custom_title=2023%20Stats:" width="415px" height="200px"/>
-    ---------------------->
+<p>
+
+<p align="center">
     <!--------------------- 💳 Github Profile Summary Card ---------------------->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc-mccarthy&count_private=true&border_radius=true&theme=monokai" width="585px" height="200px"/>
-    <!--------------------- 📊 Most Used Language
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mccarthy&border_radius=true&theme=chartreuse-dark&custom_title=Ingredients:" width="245px" height="200px"/>
-    ---------------------->
-    <!--------------------- 📈 Activity Graph ---------------------->
-    <img src="https://activity-graph.herokuapp.com/graph?username=marc-mccarthy&theme=minimal&count_private=true" height="350px"/>
 <p>
 
 <!--------------------- My Future Endeavors ---------------------->
-<h3 align="center">🎓 Learn Next (No Particular Order):</h3>
+<h2 align="center">Learn Next:</h2>
+
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white" height="23px">
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=plastic&logo=vim&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="22px"/>
-    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=plastic&logo=vim&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="22px"/>
-</p>
-
-<!--------------------- Great List Of Knowledge Assets ---------------------->
-<h3 align="center">📚 Books on Shelf 2023</h3>
-<p align="center">
-    <a href="https://www.goodreads.com/book/show/18144590-the-alchemist?from_search=true&from_srp=true&qid=z4hFDVFDCE&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie?from_search=true&from_srp=true&qid=IiyR0SDxTc&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/40121378-atomic-habits?ref=nav_sb_ss_1_9" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535115320i/40121378.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/18077875-essentialism?from_search=true&from_srp=true&qid=erWKFYmPnB&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403165375i/18077875.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/30659.Meditations?from_search=true&from_srp=true&qid=klrRBVrtYO&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/40745.Mindset?ref=nav_sb_ss_1_7" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/23692271-sapiens?from_search=true&from_srp=true&qid=cQEX3VGg5I&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/52036.Siddhartha?from_search=true&from_srp=true&qid=hQJt0SslL7&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?from_search=true&from_srp=true&qid=gOm1aVP9bU&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598011736i/54898389.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/76334.A_New_Earth?from_search=true&from_srp=true&qid=IQ2VSA6iEQ&rank=3" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388206232i/76334.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/60551.The_Book?from_search=true&from_srp=true&qid=hQfgZg88F7&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403166178i/60551.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/52246022-the-hermeticism-collection?from_search=true&from_srp=true&qid=U5FBWIvYDo&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560767027l/52246022.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up?from_search=true&from_srp=true&qid=J3vCOY3LkD&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418767178i/22318578.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary?from_search=true&from_srp=true&qid=GuE8GkirFV&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328826802i/6968772.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=fPscFIXW8d&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581527774i/41881472.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?from_search=true&from_srp=true&qid=GJ1zsnajB9&rank=1" target="_blank" rel="noopener noreferrer"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/1963638.The_Untethered_Soul?from_search=true&from_srp=true&qid=j3r4RcFW61&rank=1" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354898395i/1963638.jpg" height="200px" width="135px"/>
-    </a>
-    <a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic?from_search=true&from_srp=true&qid=LDxQlp4kRQ&rank=3" target="_blank" rel="noopener noreferrer">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462161080i/29093292.jpg" height="200px" width="135px"/>
-    </a>
 </p>
