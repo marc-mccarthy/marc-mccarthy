@@ -2,20 +2,20 @@
 <h3 align="center">🍺 Slainte 🍺</h3>
 
 <!--------------------- 🏆 Deployed Projects on my Website ---------------------->
-<h3 align="center"><a href="https://marcmccarthy.io">Website</a> or <a href="https://marcmccarthy.io">LinkedIn</a></h3>
+<h3 align="center">Contact me via <a href="https://marcmccarthy.io">Website</a> or <a href="https://marcmccarthy.io">LinkedIn</a></h3>
 
 <p align="center">
   <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-black?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
+    <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-black?style=for-the-badge&logoColor=white" height="25px" width="100px"/>
   </a>
   <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-darkblue?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
+    <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-darkblue?style=for-the-badge&logoColor=white" height="25px" width="100px"/>
   </a>
   <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-black?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
+    <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-black?style=for-the-badge&logoColor=white" height="25px" width="100px"/>
   </a>
   <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-darkblue?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
+    <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-darkblue?style=for-the-badge&logoColor=white" height="25px" width="100px"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <h3 align="center">Interests</h3>
 
 <p align="center">
-  💻 <b>Programming</b> &nbsp;&nbsp; 📈 <b>Forex/Stocks</b>  &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
+  💻 <b>Programming</b> &nbsp;&nbsp; 📈 <b>Forex/Equities</b> &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
