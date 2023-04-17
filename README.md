@@ -1,19 +1,21 @@
 <!--------------------- Introduction ---------------------->
 <h3 align="center">🍺 Slainte 🍺</h3>
 
-<!--------------------- Social Links ---------------------->
+<!--------------------- 🏆 Deployed Projects on my Website ---------------------->
+<h3 align="center"><a href="https://marcmccarthy.io">Website</a> or <a href="https://marcmccarthy.io">LinkedIn</a></h3>
+
 <p align="center">
-  <a href="https://github.com/marc-mccarthy" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="23px" width="80px"/>
+  <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+    <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-black?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
   </a>
-  <a href="https://www.linkedin.com/in/the-marc-mccarthy" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="23px" width="80px"/>
+  <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+    <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-darkblue?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
   </a>
-  <a href="mailto:marstheory20@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23px" width="80px"/>
+  <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+    <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-black?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
   </a>
-  <a href="https://twitter.com/themarcmccarthy" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter Link" title="Twitter Link" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="23px" width="80px"/>
+  <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
+    <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-darkblue?style=for-the-badge&logoColor=white" height="24px" width="90px"/>
   </a>
 </p>
 
@@ -24,36 +26,11 @@
   </a>
 </p>
 
-<!--------------------- 🏆 Deployed Projects on my Website ---------------------->
-<h3 align="center">Deployed on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
-
-<p align="center">
-  <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Greener Prints Link" title="Greener Prints Link" src="https://img.shields.io/badge/-Greener%20Prints-black?style=for-the-badge&logoColor=white" height="23px" width="80px"/>
-  </a>
-  <a href="https://police-conduct.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Police Conduct Link" title="Police Conduct Link" src="https://img.shields.io/badge/-Police%20Conduct-darkblue?style=for-the-badge&logoColor=white" height="23px" width="80px"/>
-  </a>
-  <a href="https://movie-sagas.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Movie Sagas Link" title="Movie Sagas Link" src="https://img.shields.io/badge/-Movie%20Sagas-black?style=for-the-badge&logoColor=white" height="23px" width="80px"/>
-  </a>
-  <a href="https://react-gallery.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
-    <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-darkblue?style=for-the-badge&logoColor=white" height="23px" width="80px"/>
-  </a>
-</p>
-
 <!--------------------- Various Interests ---------------------->
 <h3 align="center">Interests</h3>
 
 <p align="center">
-  💻 <b>Full Stack Dev</b> &nbsp;&nbsp; 📈 <b>Forex/Stocks</b>  &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
-</p>
-
-<!--------------------- Link to All My Repos ---------------------->
-<p align="center">
-  <a href="https://github.com/marc-mccarthy?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" height="25px" width="90px"/>
-  </a>
+  💻 <b>Programming</b> &nbsp;&nbsp; 📈 <b>Forex/Stocks</b>  &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
@@ -111,7 +88,7 @@
 </p>
 
 <!--------------------- My Future Endeavors ---------------------->
-<h3 align="center">Learn Next:</h3>
+<h4 align="center">Learn Next</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="22px"/>
