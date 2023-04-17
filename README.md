@@ -59,7 +59,6 @@
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
-<!-- <h3 align="center">Stats</h3> -->
 <p align="center">
   <!--------------------- ⏱ Streak Stats ---------------------->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
