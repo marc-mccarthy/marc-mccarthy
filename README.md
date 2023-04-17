@@ -1,5 +1,6 @@
 <!--------------------- Introduction ---------------------->
-<h2 align="center">🍺 Slainte 🍺</h2>
+<h3 align="center">🍺 Slainte 🍺</h3>
+</br>
 
 <!--------------------- Social Links ---------------------->
 <p align="center">
@@ -25,7 +26,7 @@
 </p>
 
 <!--------------------- 🏆 Deployed Projects on my Website ---------------------->
-<h2 align="center">Deployed on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h2>
+<h3 align="center">Deployed on <a href="https://marcmccarthy.io">marcmccarthy.io</a></h3>
 
 <p align="center">
   <a href="https://greener-footprints.marcmccarthy.io" target="_blank" rel="noopener noreferrer">
@@ -44,7 +45,7 @@
 </br>
 
 <!--------------------- Various Interests ---------------------->
-<h2 align="center">Interests</h2>
+<h3 align="center">Interests</h3>
 
 <p align="center">
   💻 <b>Full Stack Dev</b> &nbsp;&nbsp; 📈 <b>Forex/Stocks</b>  &nbsp;&nbsp;📜 <b>Philosophy</b> &nbsp;&nbsp; 🏈 <b>Sports</b> &nbsp;&nbsp; 📚 <b>Reading</b>
@@ -58,14 +59,14 @@
 </p>
 
 <!--------------------- Github Info For Tracking Progress ---------------------->
-<!-- <h2 align="center">Stats</h2> -->
+<!-- <h3 align="center">Stats</h3> -->
 <p align="center">
   <!--------------------- ⏱ Streak Stats ---------------------->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-mccarthy&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
 <p>
 
 <!--------------------- Technologies That I Have Used ---------------------->
-<h2 align="center">Technologies</h2>
+<h3 align="center">Technologies</h3>
 
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
@@ -114,7 +115,7 @@
 </br>
 
 <!--------------------- My Future Endeavors ---------------------->
-<h2 align="center">Learn Next:</h2>
+<h3 align="center">Learn Next:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="22px"/>
