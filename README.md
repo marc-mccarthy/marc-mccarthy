@@ -1,6 +1,5 @@
 <!--------------------- Introduction ---------------------->
 <h3 align="center">🍺 Slainte 🍺</h3>
-</br>
 
 <!--------------------- Social Links ---------------------->
 <p align="center">
@@ -42,7 +41,6 @@
     <img alt="React Gallery Link" title="React Gallery Link" src="https://img.shields.io/badge/-React%20Gallery-darkblue?style=for-the-badge&logoColor=white" height="23px" width="80px"/>
   </a>
 </p>
-</br>
 
 <!--------------------- Various Interests ---------------------->
 <h3 align="center">Interests</h3>
@@ -111,7 +109,6 @@
   <img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" height="22px"/>
 </p>
-</br>
 
 <!--------------------- My Future Endeavors ---------------------->
 <h3 align="center">Learn Next:</h3>
